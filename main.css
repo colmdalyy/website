@@ -10,4 +10,6 @@ h1{
     color: red;
     font-size: 300px;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 40px 40px blueviolet; 
 }
