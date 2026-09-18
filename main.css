@@ -1,11 +1,13 @@
 p{
     color: aquamarine;
-    font-size:large;
+    font-size: 150px;
+    font-family: 'Times New Roman', Times, serif;
 }
 body{
     background-color: black;
 }
 h1{
     color: red;
-    font-size: larger;
+    font-size: 300px;
+    font-family: 'Times New Roman', Times, serif;
 }
